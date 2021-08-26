@@ -8,6 +8,7 @@ import java.util.StringTokenizer;
 
 public class Main {
     public static void main(String[] args) throws IOException {
+        // 모르겠다 ㅎㅎ
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         Stack<Integer> stack = new Stack<>();
         int n = Integer.parseInt(br.readLine());
